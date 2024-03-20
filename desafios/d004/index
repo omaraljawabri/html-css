@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Emojis</title>
+</head>
+<body>
+    <h1>Meus emojis favoritos</h1>
+    <hr>
+    <h2>Carinhas</h2>
+    <ul>
+        <li>&#x1F923 Código U+1F923 </li>
+        <li>&#x1F607 Código U+1F607</li>
+        <li>&#x1F634 Código U+1F634</li>
+    </ul>
+    <h2>Mãos</h2>
+    <ul>
+        <li>&#x1F91D Código U+1F91D</li>
+        <li>&#x1F4AA Código U+1F4AA</li>
+        <li>&#x1F44F Código U+1F44F</li>
+    </ul>
+    <h2>Animais</h2>
+    <ul>
+        <li>&#x1F415 Código U+1F415</li>
+        <li>&#x1F408 Código U+1F408</li>
+        <li>&#x1F410 Código U+1F410</li>
+    </ul>
+    <h2>Esportes</h2> 
+    <ul>
+        <li>&#x26BD Código U+26BD
+        </li>
+        <li>&#x1F3C0 Código U+1F3C0
+        </li>
+        <li>&#x1F3D3 Código U+1F3D3
+        </li>
+    </ul>
+    <h2>Comidas</h2>
+    <ul>
+        <li>&#x1F354 Código U+1F354
+        </li>
+        <li>&#x1F35F Código U+1F35F
+        </li>
+        <li>&#x1F32D Código U+1F32D
+        </li>
+    </ul>
+    <h2>Objetos</h2>
+    <ul>
+        <li>&#x1F576 &#XFE0F Código U+1F576 U+FE0F
+        </li>
+        <li>&#x1F4BB Código U+1F4BB
+        </li>
+        <li>&#x1F4B8 Código U+1F4B8
+        </li>
+    </ul>
+
+    
+</body>
+</html>

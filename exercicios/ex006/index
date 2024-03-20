@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="html.ico" type="image/x-icon">
+    <title>Hierarquia de Titulos</title>
+</head>
+<body>
+    <h1>Entendendo Portugal</h1>   
+    <h2>Introdução</h2>
+    <h3>Justificação da Temática</h3>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, aut assumenda asperiores, et maiores deleniti quae nihil minus, laborum quisquam corporis reprehenderit suscipit cupiditate vel vitae amet vero eius. Saepe.
+    <h3>Caráter excecional</h3> 
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, sapiente distinctio deleniti accusamus reprehenderit amet et commodi placeat recusandae omnis harum ut, quasi sunt nisi iusto sit aliquam officiis in.
+    <h3>Perguntas de partida</h3>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur porro vitae, aspernatur ratione recusandae nobis fugit impedit natus totam eligendi distinctio. Mollitia ipsam laboriosam nostrum quibusdam officia obcaecati rem tenetur!
+    <h3>Metodologia de Investigação</h3>
+    <h4>Etapas de Investigação</h4>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus vero cum necessitatibus dicta minima, distinctio totam tenetur sunt odio sapiente soluta repellendus accusamus amet id mollitia voluptatem asperiores molestias accusantium.
+    <h4>Instrumentos de Análise</h4>
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit sed accusantium exercitationem natus aut illo obcaecati saepe, blanditiis provident non beatae est sequi ea, ipsum alias nihil iste doloribus earum!
+    <h2>Ordenamento do Teirritório em Portugal</h2>
+    <h3>Os instrumentos de gestão</h3>
+    <h4>Os instrumentos de planeamento</h4>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero itaque aperiam harum repellat exercitationem, possimus repellendus hic iste doloribus officia laborum incidunt deserunt provident excepturi est accusamus libero officiis quisquam!
+    <h4>Os regimes territoriais</h4>
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam temporibus harum, accusamus ex quibusdam iure eos alias enim deleniti quidem labore ea soluta deserunt minus illo, odit ratione eveniet. Fugit.
+</body>
+</html>

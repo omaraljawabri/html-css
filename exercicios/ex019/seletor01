@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seletores Personalizados</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 id="principal" class="destaque">Criando Sites com HTML e CSS</h1>
+    <h1>Aprendendo HTML</h1>
+    <h2 class="basico">HTML básico</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <scan class="basico">Deserunt soluta</scan> nemo harum neque incidunt veniam odio. Ea nisi est aliquid dolorem maiores laudantium, nostrum similique molestias nemo sunt numquam error.</p>
+    <h2 class="intermediario">HTML intermediário</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo aperiam eos atque aut quo esse amet cum iure neque autem nemo recusandae quod modi consectetur tenetur pariatur omnis, dignissimos culpa.</p>
+    <h2 class="avancado">HTML avançado</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi reprehenderit veniam dolores at, omnis architecto molestias, necessitatibus fuga quisquam maxime ad non magnam quo exercitationem culpa, quaerat cumque? Sapiente, perferendis!</p>
+    <h1 class="destaque">Aprendendo CSS</h1>
+    <h2 class="basico">CSS básico</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo dolorum odio quasi, totam labore blanditiis id quibusdam, in, deserunt reiciendis sequi. Quia sint libero, harum a ipsum dolore quaerat quis.</p>
+    <h2 class="intermediario">CSS intermediário</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur unde quam quia similique animi aperiam iste dignissimos voluptas numquam maiores doloremque cum quo quae eaque distinctio, praesentium ab? Totam, corporis.</p>
+    <h2 class="avancado destaque">CSS avançado</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis eius error commodi? Ullam perferendis dolorum optio necessitatibus doloribus fuga, ipsum eveniet, itaque veniam excepturi tenetur? Iusto laboriosam doloremque alias tenetur.</p>
+</body>
+</html>

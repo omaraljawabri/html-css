@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <main>
+        <h1>Título 01</h1>
+        <h2>Subtítulo 01</h2>
+        <p>Bem vindo ao nosso site, interaja com os objetos e se divirta!</p>
+        <div>
+            Corinthians!
+            <p><img src="corinthians.png" alt="Imagem Corinthians"></p>
+        </div>
+    </main>
+</body>
+</html>

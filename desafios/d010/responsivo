@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste de responsividade</title>
+    <style>
+        body{
+            background-color: gray;
+        }
+
+        main{
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            min-width: 280px;
+            max-width: 800px;
+            margin: auto;
+        }
+
+        img{
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Testando responsividade</h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae aperiam expedita a dolor quod! Quam cumque eveniet sed perferendis minus odio tenetur consectetur modi, voluptatem hic, beatae natus. Quisquam, explicabo. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil, atque et! Ducimus, obcaecati reiciendis nobis similique reprehenderit commodi, neque ab temporibus repudiandae dolorum accusamus velit, accusantium rem tempora dicta sed. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil dicta nulla, in sunt labore veritatis dignissimos recusandae eveniet debitis odit accusantium saepe tempora dolor ipsam ea ut, error blanditiis dolore?</p>
+        <picture>
+            <source media="(max-width: 600px)" srcset="imagens/irina-blok-pq.jpg">
+            <img src="imagens/irina-blok.jpg" alt="">
+        </picture>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae aperiam expedita a dolor quod! Quam cumque eveniet sed perferendis minus odio tenetur consectetur modi, voluptatem hic, beatae natus. Quisquam, explicabo. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil, atque et! Ducimus, obcaecati reiciendis nobis similique reprehenderit commodi, neque ab temporibus repudiandae dolorum accusamus velit, accusantium rem tempora dicta sed. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil dicta nulla, in sunt labore veritatis dignissimos recusandae eveniet debitis odit accusantium saepe tempora dolor ipsam ea ut, error blanditiis dolore?</p>
+    </main>
+</body>
+</html>

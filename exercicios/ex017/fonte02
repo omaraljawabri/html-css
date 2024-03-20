@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alinhamentos</title>
+    <style>
+        body{
+            font: normal 16px Arial, Verdana, serif;
+            text-align: left;
+        }
+        h1{
+            text-align: center;
+        }
+        h2{
+            text-align: right;
+        }
+        p{
+            text-align: justify;
+            text-indent: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tipos de alinhamento</h1>
+    <h2>Subtítulo</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum sequi dicta, quo sint non aliquid molestiae tenetur distinctio placeat dolorum, ab quasi consequuntur illo? Aut architecto velit eum eius voluptatibus! Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, tenetur adipisci iste eius ad earum odit dignissimos nihil, officia architecto magni consequatur doloremque ipsum sapiente quos numquam aperiam dolore enim. Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus necessitatibus ea, animi enim illum illo, in laudantium saepe nulla sapiente eos quibusdam quam! Quisquam reiciendis perferendis vel enim error?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti nam quod culpa voluptatem aperiam natus incidunt, alias nisi debitis aspernatur qui adipisci exercitationem rem, nobis odio nostrum error sint. Soluta.</p>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim ratione ipsum minus, laborum, doloremque molestiae numquam quasi praesentium vitae inventore totam. Voluptatem maiores excepturi nihil modi facere, eum tenetur facilis.</p>
+</body>
+</html>

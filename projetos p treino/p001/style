@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+h1{
+    text-align: center;
+    color: whitesmoke ;
+}
+h2{
+    color: whitesmoke;
+}
+
+body{
+    background-image: linear-gradient(to left, red , black );
+}

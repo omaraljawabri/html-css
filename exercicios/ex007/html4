@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>Meu site HTML4</title>
+    </head>
+    <body bgcolor="blue">
+        <center><h1>Exercício de site em HTML4</h1><center>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed excepturi quis iusto aspernatur veniam, incidunt in provident totam? Obcaecati quam alias dolorum! Eaque accusamus nihil dolorum! Laboriosam doloremque vero adipisci?</p>
+        <marquee behavior="" direction="right">teste de marqueee</marquee>
+        
+    </body>
+</html>

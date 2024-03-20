@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
+    <title>Mapa Mundi</title>
+</head>
+<body>
+    <h1>Desafio do Mapa</h1>
+    <p>Agora chegou a hora de treinar um pouco o uso de imagens, parágrafos e quebras de linhas.</p>
+    <img src="imagens/m01.png" alt="Imagem mapa mundi 1">
+    <img src="imagens/m02.png" alt="Imagem mapa mundi 2">
+    <img src="imagens/m03.png" alt="Imagem mapa mundi 3">
+    <br>
+    <img src="imagens/m04.png" alt="Imagem mapa mundi 4">
+    <img src="imagens/m05.png" alt="Imagem mapa mundi 5">
+    <img src="imagens/m06.png" alt="Imagem mapa mundi 6">
+    <br>
+    <img src="imagens/m07.png" alt="Imagem mapa mundi 7">
+    <img src="imagens/m08.png" alt="Imagem mapa mundi 8">
+    <img src="imagens/m09.png" alt="Imagem mapa mundi 9">
+</body>
+</html>

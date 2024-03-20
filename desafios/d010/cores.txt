@@ -1,0 +1,11 @@
+Cores site:
+Fade
+Cor inicial: #39CE7C
+Cor final: #1A5C38
+
+Parte do fundo: #84E1AD
+Cores do título: #377152
+
+Cabeçalho parte de baixo: #2FA866
+Corpo da parte de baixo: #C5EBD6
+Rodapé: #1A5C38

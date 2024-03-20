@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cores em CSS</title>
+</head>
+<body>
+    <!--Representação por nomes-->
+    <h2 style="background-color: blue; color: white";>Exemplo de Cores</h2>
+    <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident, perspiciatis est. Vitae tenetur officia illum assumenda alias exercitationem in provident vel ea. Consectetur nam eos in. Obcaecati eum quaerat voluptate?
+    </p>
+    <!--Representação por códigos hexadecimais-->
+    <!--Decimal: 0 1 2 3 4 5 6 7 8 9-->
+    <!--Hexadecimal: 0 1 2 3 4 5 6 7 8 9 A B C D E F-->
+    <h2 style="background-color: #0000ff; color: #ffffff;">Exemplo de Cores</h2>
+    <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident, perspiciatis est. Vitae tenetur officia illum assumenda alias exercitationem in provident vel ea. Consectetur nam eos in. Obcaecati eum quaerat voluptate?
+    </p>
+    <!--Representação por RGB (Red, Green, Blue)-->
+    <h2 style="background-color: rgb(0, 0, 255); color: rgb(255, 255, 255);">Exemplo de Cores</h2>
+    <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident, perspiciatis est. Vitae tenetur officia illum assumenda alias exercitationem in provident vel ea. Consectetur nam eos in. Obcaecati eum quaerat voluptate?
+    </p>
+    <!--Representaçãao por HSL (Hue, Saturation, Luminosity)-->
+    <h2 style="background-color: hsl(240, 100%, 50%);color: hsl(0, 0%, 100%);">Exemplo de Cores</h2>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis incidunt deserunt quia consequatur suscipit vero voluptatibus repellendus atque, totam ipsa laudantium qui quasi quo corrupti nihil ab cum tempore vitae.
+    </p>
+    <h2 style="background-color: #35b94b1f; color: #0be629;">Exemplo de Cores</h2>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia accusamus quam numquam ducimus impedit earum minima nam sed aliquam. Vitae in voluptate unde optio accusantium nesciunt ut non necessitatibus voluptatem!
+    </p>
+</body>
+</html>
