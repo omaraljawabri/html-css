@@ -4,7 +4,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Desafio do Astronauta</title>
+    <style>
+        body{
+            padding: 0px;
+            margin: 0px;
+        }
+        #container{
+            background-image: url('imagens/espaco.jpg');
+            height: 100vh;
+            background-size: cover;
+            position: relative;
+            background-color: aqua;
+            background-position: center center;
+        }
+
+        #conteudo{
+            margin: 0px;
+            padding: 0px;
+            background-image: url(imagens/astronauta.png);
+            height: 100%;
+            width: 100%;
+            background-repeat: no-repeat;
+            position: absolute;
+            background-position: center center;
+
+            left: 50%;
+            top: 50%;
+
+            transform: translate(-50%, -50%);
+        }
+    </style>
 </head>
 <body>
+    <section id="container">
+        <article id="conteudo"></article>
+    </section>
 </body>
 </html>
