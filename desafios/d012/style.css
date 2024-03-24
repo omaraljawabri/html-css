@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+p > a{
+    color: white;
+    text-decoration: none;
+}
+
+p > a:hover{
+    text-decoration: underline;
+}
+
+#exclusivo{
+    margin-top: 80px;
+}
+
+#exclusivo2{
+    margin-bottom: 60px;
+}
+
+section > p{
+    margin: 20px 20px 20px 30px
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+footer > p{
+    margin: 0px;
+}
